@@ -25,7 +25,7 @@ install-dev:
 	mkdir -p $(DEST_DEV)/scripts
 	ln -sf $(HERE)/scripts/grufcasa.shader $(DEST_DEV)/scripts/grufcasa.shader
 	#
-	grep ^grufcasa $(DEST_DEV)/scripts/shaderlist.txt || echo grufcasa >>$(DEST_DEV)/scripts/shaderlist.txt
+	grep ^grufcasa $(DEST_DEV)/scripts/shaderlist.txt || printf '\n%s\n' grufcasa >>$(DEST_DEV)/scripts/shaderlist.txt
 	#
 	mkdir -p $(DEST_DEV)/textures
 	ln -sf $(HERE)/textures/grufcasa $(DEST_DEV)/textures/
