@@ -17,7 +17,7 @@ install-dev:
 	test -d $(DEST_DEV)
 	#
 	mkdir -p $(DEST_DEV)/env
-	ln -sf $(HERE)/env/grufcasa $(DEST_DEV)/env/grufcasa
+	ln -sf $(HERE)/env/grufcasa $(DEST_DEV)/env/
 	#
 	mkdir -p $(DEST_DEV)/maps
 	ln -sf $(HERE)/maps/grufcasa.map $(DEST_DEV)/maps/grufcasa.map
@@ -28,18 +28,18 @@ install-dev:
 	grep ^grufcasa $(DEST_DEV)/scripts/shaderlist.txt || echo grufcasa >>$(DEST_DEV)/scripts/shaderlist.txt
 	#
 	mkdir -p $(DEST_DEV)/textures
-	ln -sf $(HERE)/textures/grufcasa $(DEST_DEV)/textures/grufcasa
+	ln -sf $(HERE)/textures/grufcasa $(DEST_DEV)/textures/
 
 .PHONY: install-q3a
 install-q3a:
 	test -d $(DEST_Q3A)
 	#
 	mkdir -p $(DEST_Q3A)/env
-	ln -sf $(HERE)/env/grufcasa $(DEST_Q3A)/env/grufcasa
+	ln -sf $(HERE)/env/grufcasa $(DEST_Q3A)/env/
 	#
 	mkdir -p $(DEST_Q3A)/scripts
 	ln -sf $(HERE)/scripts/grufcasa.shader $(DEST_Q3A)/scripts/grufcasa.shader
 	#
 	mkdir -p $(DEST_Q3A)/textures
-	ln -sf $(HERE)/textures/grufcasa $(DEST_Q3A)/textures/grufcasa
+	ln -sf $(HERE)/textures/grufcasa $(DEST_Q3A)/textures/
 
