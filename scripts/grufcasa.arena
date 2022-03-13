@@ -1,0 +1,8 @@
+{
+map             "grufcasa"
+longname        "The Grufcasa Map"
+bots 		"grunt doom major bones sorlag"
+timelimit 	"20"
+fraglimit       30
+type            "ctf team ffa tourney"
+}
