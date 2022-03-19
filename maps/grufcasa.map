@@ -1274,13 +1274,13 @@ stone/rockwall
 // entity 2
 {
 "classname" "light"
-"origin" "24 48 112"
 "light" "9999999"
+"origin" "24 48 112"
 }
 // entity 3
 {
-"classname" "func_door"
 "angle" "-2"
+"classname" "func_door"
 // brush 0
 {
 ( 120 -112 16 ) ( 120 -104 16 ) ( 72 -104 16 ) grufcasa/deur_rechts 0 0 0 -0.180905 0.007619 0 0 0
@@ -1293,27 +1293,27 @@ stone/rockwall
 }
 // entity 4
 {
+"classname" "light"
 "light" "9999999"
 "origin" "208 80 96"
-"classname" "light"
 }
 // entity 5
 {
 "classname" "light"
-"origin" "152 0 96"
 "light" "9999999"
+"origin" "152 0 96"
 }
 // entity 6
 {
+"classname" "light"
 "light" "9999999"
 "origin" "96 -200 96"
-"classname" "light"
 }
 // entity 7
 {
 "classname" "light"
-"origin" "168 72 208"
 "light" "9999999"
+"origin" "168 72 208"
 }
 // entity 8
 {
@@ -1332,31 +1332,31 @@ stone/rockwall
 // entity 9
 {
 "classname" "light"
-"origin" "216 -256 56"
 "light" "9999999"
+"origin" "216 -256 56"
 }
 // entity 10
 {
 "classname" "light"
-"origin" "40 -800 128"
 "light" "9999999"
+"origin" "40 -800 128"
 }
 // entity 11
 {
+"classname" "light"
 "light" "9999999"
 "origin" "80 -776 248"
-"classname" "light"
 }
 // entity 12
 {
 "classname" "light"
-"origin" "80 -528 384"
 "light" "9999999"
+"origin" "80 -528 384"
 }
 // entity 13
 {
-"classname" "func_door"
 "angle" "0"
+"classname" "func_door"
 // brush 0
 {
 ( 104 -320 280 ) ( 104 -328 280 ) ( 104 -328 232 ) grufcasa/deur_links 0 408 0 -0.020101 0.137143 0 0 0
@@ -1397,8 +1397,8 @@ stone/rockwall
 }
 // entity 16
 {
-"classname" "func_door"
 "angle" "180"
+"classname" "func_door"
 // brush 0
 {
 ( 128 -50 344 ) ( 80 -50 344 ) ( 80 -50 248 ) grufcasa/deur_rechts 176 408 0 -0.180905 0.137143 0 0 0
@@ -1439,8 +1439,8 @@ stone/rockwall
 }
 // entity 19
 {
-"target" "rioll"
 "classname" "trigger_teleport"
+"target" "rioll"
 // brush 0
 {
 ( 80 -80 200 ) ( 24 -80 200 ) ( 24 -160 200 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
@@ -1454,8 +1454,8 @@ stone/rockwall
 // entity 20
 {
 "classname" "light"
-"origin" "-576 -152 32"
 "light" "9999999"
+"origin" "-576 -152 32"
 }
 // entity 21
 {
@@ -1480,8 +1480,8 @@ stone/rockwall
 // entity 23
 {
 "classname" "light"
-"origin" "-424 -368 72"
 "light" "9999999"
+"origin" "-424 -368 72"
 }
 // entity 24
 {
@@ -1491,7 +1491,7 @@ stone/rockwall
 }
 // entity 25
 {
+"classname" "light"
 "light" "9999999"
 "origin" "-576 -104 96"
-"classname" "light"
 }
