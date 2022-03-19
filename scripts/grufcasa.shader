@@ -14,6 +14,31 @@ textures/grufcasa/skyblue
 	q3map_skylight 200 16
 }
 
+textures/grufcasa/straal
+{ 
+        surfaceparm trans
+        surfaceparm nomarks
+        surfaceparm nonsolid
+        surfaceparm nolightmap
+        cull none
+
+        {
+                map textures/grufcasa/straal.jpg
+                tcMod Scroll .3 0
+                blendFunc add
+        }
+
+}
+
+textures/grufcasa/zwarte_lamp
+{
+	qer_editorimage textures/grufcasa/aanrecht.jpg
+	q3map_lightimage env/grufcasa/white.tga
+	{
+		map textures/grufcasa/aanrecht.jpg
+	}
+}
+
 //textures/wbig/fence
 //{ 
 //  surfaceparm nonsolid
