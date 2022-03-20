@@ -22,6 +22,9 @@ install-dev:
 	mkdir -p $(DEST_DEV)/maps
 	ln -sf $(HERE)/maps/grufcasa.map $(DEST_DEV)/maps/grufcasa.map
 	#
+	mkdir -p $(DEST_DEV)/models/mapobjects
+	ln -sf $(HERE)/models/mapobjects/grufcasa $(DEST_DEV)/models/mapobjects/
+	#
 	mkdir -p $(DEST_DEV)/scripts
 	ln -sf $(HERE)/scripts/grufcasa.shader $(DEST_DEV)/scripts/grufcasa.shader
 	#
@@ -36,6 +39,9 @@ install-q3a:
 	#
 	mkdir -p $(DEST_Q3A)/env
 	ln -sf $(HERE)/env/grufcasa $(DEST_Q3A)/env/
+	#
+	mkdir -p $(DEST_Q3A)/models/mapobjects
+	ln -sf $(HERE)/models/mapobjects/grufcasa $(DEST_Q3A)/models/mapobjects/
 	#
 	mkdir -p $(DEST_Q3A)/scripts
 	ln -sf $(HERE)/scripts/grufcasa.shader $(DEST_Q3A)/scripts/grufcasa.shader
