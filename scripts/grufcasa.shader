@@ -1,7 +1,10 @@
 textures/grufcasa/skyblue
 {
-	// For nrcradiant, also place textures/grufcasa.jpg
-	qer_editorimage textures/grufcasa/skyblue_up.jpg
+	// For netradiant, we need the qer_editorimage..
+	// For nrcradiant, place textures/grufcasa[.ext] because that's
+	// the shader name.
+	// Related to: https://github.com/Garux/netradiant-custom/issues/37 ?
+	qer_editorimage textures/grufcasa/skyblue.jpg
 
 	//q3map_lightimage textures/grufcasa/skycolor.tga
 	q3map_lightimage env/grufcasa/white.tga
