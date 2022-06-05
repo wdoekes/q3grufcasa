@@ -38,7 +38,7 @@ textures/grufcasa/zwarte_lamp
 {
 	q3map_lightimage env/grufcasa/white.tga
 	{
-		map textures/grufcasa/zwart_lamp.jpg
+		map textures/grufcasa/zwarte_lamp.jpg
 	}
 }
 
