@@ -14,6 +14,20 @@ textures/grufcasa/skyblue
 	q3map_skylight 200 16
 }
 
+textures/grufcasa/hooi-nonsolid
+{
+	qer_editorimage textures/grufcasa/hooi-nonsolid.jpg
+
+	surfaceparm nomarks
+	surfaceparm nonsolid
+	surfaceparm nolightmap
+	cull none
+	{
+		map textures/grufcasa/hooi.jpg
+	}
+
+}
+
 textures/grufcasa/straal
 {
 	surfaceparm trans
