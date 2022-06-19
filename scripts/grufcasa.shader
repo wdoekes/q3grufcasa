@@ -1,7 +1,6 @@
 textures/grufcasa/skyblue
 {
 	qer_editorimage env/grufcasa/skyblue_up.jpg
-
 	//q3map_lightimage textures/grufcasa/skycolor.tga
 	q3map_lightimage env/grufcasa/white.tga
 	surfaceparm nodlight
@@ -46,9 +45,10 @@ textures/grufcasa/straal
 
 textures/grufcasa/zwarte_lamp
 {
+	qer_editorimage textures/grufcasa/aanrecht.jpg
 	q3map_lightimage env/grufcasa/white.tga
 	{
-		map textures/grufcasa/zwarte_lamp.jpg
+		map textures/grufcasa/aanrecht.jpg
 	}
 }
 
