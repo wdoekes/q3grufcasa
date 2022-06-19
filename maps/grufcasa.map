@@ -2036,3 +2036,8 @@ stone/rockwall
 "light" "4000"
 "origin" "148 24 184"
 }
+{
+"classname" "light"
+"origin" "14 -170 313"
+"light" "300"
+}
