@@ -13,6 +13,15 @@ textures/grufcasa/skyblue
 	q3map_skylight 200 16
 }
 
+textures/common/watercaulk
+{
+	qer_trans 0.5
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+	surfaceparm water
+}
+
 textures/grufcasa/hooi-nonsolid
 {
 	qer_editorimage textures/grufcasa/hooi-nonsolid.jpg
@@ -24,7 +33,6 @@ textures/grufcasa/hooi-nonsolid
 	{
 		map textures/grufcasa/hooi.jpg
 	}
-
 }
 
 textures/grufcasa/straal
@@ -40,7 +48,6 @@ textures/grufcasa/straal
 		tcMod Scroll .3 0
 		blendFunc add
 	}
-
 }
 
 textures/grufcasa/zwarte_lamp
