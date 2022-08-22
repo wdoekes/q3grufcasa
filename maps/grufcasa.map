@@ -23305,7 +23305,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "200"
-"origin" "-8 40 184"
+"origin" "-8 40 168"
 }
 {
 "classname" "func_door"
@@ -23322,17 +23322,17 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "232 80 184"
+"origin" "232 112 280"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "136 72 184"
+"origin" "136 72 168"
 }
 {
 "classname" "light"
 "light" "4000"
-"origin" "64 -464 184"
+"origin" "64 -464 168"
 }
 {
 "classname" "func_door"
@@ -23463,7 +23463,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "224 -280 184"
+"origin" "224 -280 152"
 }
 {
 "classname" "light"
@@ -23485,12 +23485,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "35 8 184"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "-18 7 282"
+"origin" "35 8 168"
 }
 {
 "classname" "light"
@@ -23510,7 +23505,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "232 -348 184"
+"origin" "232 -348 168"
 }
 {
 "classname" "light"
@@ -23520,7 +23515,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "148 24 184"
+"origin" "148 24 168"
 }
 {
 "classname" "light"
@@ -23650,16 +23645,6 @@ stone/rockwall
 }
 {
 "classname" "light"
-"origin" "231 -324 35"
-"light" "999"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "235 -154 40"
-}
-{
-"classname" "light"
 "origin" "-48 -208 224"
 "light" "999"
 }
@@ -23670,22 +23655,22 @@ stone/rockwall
 {
 "classname" "light"
 "light" "200"
-"origin" "-8 40 184"
+"origin" "-8 40 168"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "232 80 184"
+"origin" "232 80 168"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "136 72 184"
+"origin" "136 72 168"
 }
 {
 "classname" "light"
 "light" "4000"
-"origin" "64 -464 184"
+"origin" "64 -464 168"
 }
 {
 "classname" "light"
@@ -23748,7 +23733,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "224 -280 184"
+"origin" "224 -280 152"
 }
 {
 "classname" "light"
@@ -23770,12 +23755,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "35 8 184"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "-18 7 282"
+"origin" "35 8 168"
 }
 {
 "classname" "light"
@@ -23795,7 +23775,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "232 -348 184"
+"origin" "232 -348 168"
 }
 {
 "classname" "light"
@@ -23805,7 +23785,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "148 24 184"
+"origin" "148 24 168"
 }
 {
 "classname" "light"
@@ -23935,16 +23915,6 @@ stone/rockwall
 }
 {
 "classname" "light"
-"origin" "231 -324 35"
-"light" "999"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "235 -154 40"
-}
-{
-"classname" "light"
 "origin" "-48 -208 224"
 "light" "999"
 }
@@ -23955,7 +23925,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "200"
-"origin" "376 40 184"
+"origin" "376 40 168"
 }
 {
 "classname" "func_door"
@@ -23972,17 +23942,17 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "616 80 184"
+"origin" "616 80 168"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "520 72 184"
+"origin" "520 72 168"
 }
 {
 "classname" "light"
 "light" "4000"
-"origin" "448 -464 184"
+"origin" "448 -464 168"
 }
 {
 "classname" "func_door"
@@ -24093,7 +24063,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "608 -280 184"
+"origin" "608 -280 168"
 }
 {
 "classname" "light"
@@ -24115,7 +24085,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "419 8 184"
+"origin" "419 8 168"
 }
 {
 "classname" "light"
@@ -24140,7 +24110,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "616 -348 184"
+"origin" "616 -348 168"
 }
 {
 "classname" "light"
@@ -24150,7 +24120,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "532 24 184"
+"origin" "532 24 168"
 }
 {
 "classname" "light"
@@ -24280,16 +24250,6 @@ stone/rockwall
 }
 {
 "classname" "light"
-"origin" "615 -324 35"
-"light" "999"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "619 -154 40"
-}
-{
-"classname" "light"
 "origin" "336 -208 224"
 "light" "999"
 }
@@ -24300,7 +24260,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "200"
-"origin" "762 40 184"
+"origin" "762 40 168"
 }
 {
 "classname" "func_door"
@@ -24322,12 +24282,12 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "906 72 184"
+"origin" "906 72 168"
 }
 {
 "classname" "light"
 "light" "4000"
-"origin" "834 -464 184"
+"origin" "834 -464 168"
 }
 {
 "classname" "func_door"
@@ -24460,7 +24420,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "805 8 184"
+"origin" "805 8 168"
 }
 {
 "classname" "light"
@@ -24495,7 +24455,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "918 24 184"
+"origin" "918 24 168"
 }
 {
 "classname" "light"
@@ -24625,16 +24585,6 @@ stone/rockwall
 }
 {
 "classname" "light"
-"origin" "1001 -324 35"
-"light" "999"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "1005 -154 40"
-}
-{
-"classname" "light"
 "origin" "722 -208 224"
 "light" "999"
 }
@@ -24646,22 +24596,22 @@ stone/rockwall
 {
 "classname" "light"
 "light" "200"
-"origin" "904 -2216 184"
+"origin" "904 -2216 168"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "664 -2256 184"
+"origin" "664 -2256 168"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "760 -2248 184"
+"origin" "760 -2248 168"
 }
 {
 "classname" "light"
 "light" "4000"
-"origin" "832 -1712 184"
+"origin" "832 -1712 168"
 }
 {
 "classname" "light"
@@ -24743,7 +24693,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "672 -1896 184"
+"origin" "672 -1896 168"
 }
 {
 "classname" "light"
@@ -24765,7 +24715,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "861 -2184 184"
+"origin" "861 -2184 168"
 }
 {
 "classname" "light"
@@ -24790,7 +24740,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "664 -1828 184"
+"origin" "664 -1828 168"
 }
 {
 "classname" "light"
@@ -24800,7 +24750,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "748 -2200 184"
+"origin" "748 -2200 168"
 }
 {
 "classname" "light"
@@ -24931,16 +24881,6 @@ stone/rockwall
 }
 {
 "classname" "light"
-"origin" "665 -1852 35"
-"light" "999"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "661 -2022 40"
-}
-{
-"classname" "light"
 "origin" "944 -1968 224"
 "light" "999"
 }
@@ -24952,7 +24892,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "200"
-"origin" "904 -2216 184"
+"origin" "904 -2216 168"
 }
 {
 "classname" "func_door"
@@ -24969,17 +24909,17 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "664 -2256 184"
+"origin" "664 -2256 168"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "760 -2248 184"
+"origin" "760 -2248 168"
 }
 {
 "classname" "light"
 "light" "4000"
-"origin" "832 -1712 184"
+"origin" "832 -1712 168"
 }
 {
 "classname" "func_door"
@@ -25067,7 +25007,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "672 -1896 184"
+"origin" "672 -1896 168"
 }
 {
 "classname" "light"
@@ -25089,7 +25029,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "861 -2184 184"
+"origin" "861 -2184 168"
 }
 {
 "classname" "light"
@@ -25114,7 +25054,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "664 -1828 184"
+"origin" "664 -1828 168"
 }
 {
 "classname" "light"
@@ -25124,7 +25064,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "748 -2200 184"
+"origin" "748 -2200 168"
 }
 {
 "classname" "light"
@@ -25255,16 +25195,6 @@ stone/rockwall
 }
 {
 "classname" "light"
-"origin" "665 -1852 35"
-"light" "999"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "661 -2022 40"
-}
-{
-"classname" "light"
 "origin" "944 -1968 224"
 "light" "999"
 }
@@ -25276,7 +25206,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "200"
-"origin" "520 -2216 184"
+"origin" "520 -2216 168"
 }
 {
 "classname" "func_door"
@@ -25293,17 +25223,17 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "280 -2256 184"
+"origin" "280 -2256 168"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "376 -2248 184"
+"origin" "376 -2248 168"
 }
 {
 "classname" "light"
 "light" "4000"
-"origin" "448 -1712 184"
+"origin" "448 -1712 168"
 }
 {
 "classname" "func_door"
@@ -25415,7 +25345,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "288 -1896 184"
+"origin" "288 -1896 168"
 }
 {
 "classname" "light"
@@ -25437,7 +25367,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "477 -2184 184"
+"origin" "477 -2184 168"
 }
 {
 "classname" "light"
@@ -25462,7 +25392,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "280 -1828 184"
+"origin" "280 -1828 168"
 }
 {
 "classname" "light"
@@ -25472,7 +25402,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "364 -2200 184"
+"origin" "364 -2200 168"
 }
 {
 "classname" "light"
@@ -25603,16 +25533,6 @@ stone/rockwall
 }
 {
 "classname" "light"
-"origin" "281 -1852 35"
-"light" "999"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "277 -2022 40"
-}
-{
-"classname" "light"
 "origin" "560 -1968 224"
 "light" "999"
 }
@@ -25624,7 +25544,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "200"
-"origin" "134 -2216 184"
+"origin" "134 -2216 168"
 }
 {
 "classname" "func_door"
@@ -25641,17 +25561,17 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "-106 -2256 184"
+"origin" "-106 -2256 168"
 }
 {
 "classname" "light"
 "light" "5"
-"origin" "-10 -2248 184"
+"origin" "-10 -2248 168"
 }
 {
 "classname" "light"
 "light" "4000"
-"origin" "62 -1712 184"
+"origin" "62 -1712 168"
 }
 {
 "classname" "func_door"
@@ -25763,7 +25683,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "5"
-"origin" "-98 -1896 184"
+"origin" "-98 -1896 168"
 }
 {
 "classname" "light"
@@ -25785,7 +25705,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "91 -2184 184"
+"origin" "91 -2184 168"
 }
 {
 "classname" "light"
@@ -25810,7 +25730,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "-106 -1828 184"
+"origin" "-106 -1828 168"
 }
 {
 "classname" "light"
@@ -25820,7 +25740,7 @@ stone/rockwall
 {
 "classname" "light"
 "light" "4000"
-"origin" "-22 -2200 184"
+"origin" "-22 -2200 168"
 }
 {
 "classname" "light"
@@ -25948,16 +25868,6 @@ stone/rockwall
 "origin" "127 -1694 366"
 "targetname" "ladder9"
 "angle" "180"
-}
-{
-"classname" "light"
-"origin" "-105 -1852 35"
-"light" "999"
-}
-{
-"classname" "light"
-"light" "4000"
-"origin" "-109 -2022 40"
 }
 {
 "classname" "light"
