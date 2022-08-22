@@ -26037,31 +26037,6 @@ stone/rockwall
 "light" "99"
 }
 {
-"classname" "light"
-"origin" "471 -1114 499"
-"light" "99"
-}
-{
-"classname" "light"
-"origin" "2 -1114 483"
-"light" "99"
-}
-{
-"classname" "light"
-"origin" "836 -1114 478"
-"light" "99"
-}
-{
-"classname" "light"
-"origin" "804 -1167 489"
-"light" "33.5227"
-}
-{
-"classname" "light"
-"origin" "804 -1046 495"
-"light" "47.7464"
-}
-{
 "classname" "item_enviro"
 "origin" "851 -1575 329"
 }
