@@ -1,0 +1,182 @@
+BSPC version 2.1h, Jul 31 2021 10:05:28
+optimize = true
+forcesidesvisible = true
+bsp2aas: /home/jsvm/.q3a/baseq3/maps/grufcasa.bsp to /home/jsvm/.q3a/baseq3/maps/grufcasa.aas
+-- Q3_LoadMapFromBSP --
+Loading map from /home/jsvm/.q3a/baseq3/maps/grufcasa.bsp...
+  1055 triangles
+    54 patch tris
+creating planar surface planes...
+searching visible brush sides...
+     0 brush sides1010 brush sides textured out of 1010
+-------- Brush CSG ---------
+   292 original brushes
+   275 output brushes
+-------- Brush BSP ---------
+   275 brushes
+  1311 visible faces
+     0 nonvisible faces
+  1847 total sides
+pthread multi-threading
+     1 threads max
+depth first bsp building
+  5975 splits
+     0 KB of peak total bsp memory
+BSP tree created in     0 seconds
+------- Prune Nodes --------
+ 3114 pruned nodes
+---- Node Portalization ----
+  2861 nodes portalized
+    31 tiny portals
+     0 KB of portal memory
+     0 KB of winding memory
+------ FloodEntities -------
+------- FillOutside --------
+  664 solid leaves
+  548 leaves filled
+  219 inside leaves
+AAS_CreateAreas
+   219 areas created
+AAS_MergeAreaFaces
+   146 face merges
+AAS_GravitationalSubdivision
+found 4 epsilon faces trying to split area 2
+found 1 epsilon faces trying to split area 3
+found 3 epsilon faces trying to split area 6
+found 3 epsilon faces trying to split area 102
+found 1 epsilon faces trying to split area 103
+found 4 epsilon faces trying to split area 253
+found 3 epsilon faces trying to split area 104
+    29 gravitational subdivisions
+AAS_MergeAreaFaces
+     2 face merges
+AAS_MergeAreas
+    82 areas merged
+AAS_PruneNodes
+   989 nodes pruned
+   166 areas checked for shared face flipping
+AAS_MergeAreaFaces
+   218 face merges
+AAS_MergePlaneFaces
+     3 plane face merges
+AAS_LadderSubdivision
+     0 ladder subdivisions
+AAS_MeltAreaFaceWindings
+   521 edges melted
+AAS_RemoveTinyFaces
+5 tiny faces removed
+AAS_CreateAreaSettings
+allocated 218 KB and 460 bytes of AAS memory
+AAS_StoreFile
+AAS_GetFace: face 36 had degenerate edge 2-3
+   167 areas stored
+
+AAS created in     0 seconds
+loading collision map...
+CM_LoadMap( /home/jsvm/.q3a/baseq3/maps/grufcasa.bsp, 0 )
+0 weapon jump areas
+calculating reachability...
+
+please wait while storing reachability...
+trigger_teleport model = "*8"
+teleporter destination (rioll) in solid
+trigger_teleport model = "*9"
+teleporter destination (rioll) in solid
+trigger_teleport model = "*10"
+teleporter destination (omhoog) in solid
+calculating clusters...
+     0 forced portal areas
+possible portal: 10
+possible portal: 20
+possible portal: 17
+possible portal: 22
+possible portal: 19
+possible portal: 40
+possible portal: 37
+possible portal: 42
+possible portal: 39
+possible portal: 46
+possible portal: 43
+possible portal: 48
+possible portal: 45
+possible portal: 51
+possible portal: 49
+possible portal: 54
+possible portal: 53
+possible portal: 101
+possible portal: 102
+possible portal: 148
+possible portal: 147
+portal area 10 has no back cluster
+portal area 17 has no front cluster
+portal area 19 has no front cluster
+portal area 37 has no front cluster
+portal area 39 has no front cluster
+portal area 43 has no front cluster
+portal area 45 has no front cluster
+portal area 49 has no front cluster
+portal area 53 has no front cluster
+portal area 102 has no front cluster
+portal area 147 has no front cluster
+
+portal 1: area 20
+portal 2: area 22
+portal 3: area 40
+portal 4: area 42
+portal 5: area 46
+portal 6: area 48
+portal 7: area 51
+portal 8: area 54
+portal 9: area 101
+portal 10: area 148
+    11 portals created
+    13 clusters created
+cluster 1 has 28 reachability areas
+cluster 2 has 3 reachability areas
+cluster 3 has 2 reachability areas
+cluster 4 has 3 reachability areas
+cluster 5 has 2 reachability areas
+cluster 6 has 3 reachability areas
+cluster 7 has 3 reachability areas
+cluster 8 has 3 reachability areas
+cluster 9 has 3 reachability areas
+cluster 10 has 2 reachability areas
+cluster 11 has 8 reachability areas
+cluster 12 has 25 reachability areas
+    85 total reachability areas
+  7422 AAS memory/CPU usage (the lower the better)
+AAS data optimized.
+writing /home/jsvm/.q3a/baseq3/maps/grufcasa.aas
+numvertexes = 0
+numplanes = 354
+numedges = 1
+edgeindexsize = 0
+numfaces = 1
+faceindexsize = 0
+numareas = 167
+numareasettings = 167
+reachabilitysize = 211
+numnodes = 471
+numportals = 11
+portalindexsize = 20
+numclusters = 13
+   170 walk
+     0 crouch
+    11 barrier jump
+     0 jump
+     0 ladder
+    29 walk off ledge
+     0 swim
+     0 water jump
+     0 teleport
+     0 elevator
+     0 rocket jump
+     0 bfg jump
+     0 grapple hook
+     0 double jump
+     0 ramp jump
+     0 strafe jump
+     0 jump pad
+     0 func bob
+freed 218 KB and 460 bytes of AAS memory
+BSPC run time is     1 seconds
