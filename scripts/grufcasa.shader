@@ -13,13 +13,40 @@ textures/grufcasa/skyblue
 	q3map_skylight 200 16
 }
 
-textures/common/watercaulk
+textures/grufcasa/glasknop
 {
-	qer_trans 0.5
-	surfaceparm nodraw
-	surfaceparm nonsolid
-	surfaceparm trans
-	surfaceparm water
+	qer_editorimage textures/grufcasa/glas-kapot.jpg
+	qer_trans 0.3
+
+        surfaceparm nodraw
+        //surfaceparm nolightmap
+        surfaceparm nonsolid
+        surfaceparm trans
+        //surfaceparm nomarks
+}
+
+textures/grufcasa/glas
+{
+
+	qer_editorimage textures/grufcasa/glas.jpg
+	qer_trans 0.3
+
+	// We get no marks anyway, because this is a door
+	//surfaceparm nomarks
+	//surfaceparm nolightmap
+	cull none
+
+	//surfaceparm trans
+	//surfaceparm nolightmap
+	{
+		map textures/grufcasa/glas.jpg
+		blendfunc blend
+		alphagen const 0.1
+	}
+	//{
+	//	map $lightmap
+	//	blendFunc filter
+	//}
 }
 
 textures/grufcasa/hooi-nonsolid
